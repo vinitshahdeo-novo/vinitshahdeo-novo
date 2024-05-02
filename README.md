@@ -6,13 +6,11 @@ Find my personal GitHub profile — [`@vinitshahdeo`](https://github.com/vinitsh
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinitshahdeo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/vinit_shahdeo)](https://twitter.com/Vinit_Shahdeo) [![Peerlist](https://github-readme-badge.peerlist.io/api/vinitshahdeo)](https://peerlist.io/vinitshahdeo)
-
-
 You can find me on [Twitter](https://twitter.com/Vinit_Shahdeo) and [LinkedIn](https://in.linkedin.com/in/vinitshahdeo).
 
 Thank you.
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/vinit_shahdeo)](https://twitter.com/Vinit_Shahdeo) [![Peerlist](https://github-readme-badge.peerlist.io/api/vinitshahdeo)](https://peerlist.io/vinitshahdeo)
 
 
 <!--
