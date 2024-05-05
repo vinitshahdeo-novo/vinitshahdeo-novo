@@ -4,7 +4,7 @@ I am a Software Engineer who is deeply passionate about **JavaScript** and contr
 
 Find my personal GitHub profile — [`@vinitshahdeo`](https://github.com/vinitshahdeo)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinitshahdeo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinitshahdeo&theme=radical)](https://github.com/vinitshahdeo)
 
 You can find me on [Twitter](https://twitter.com/Vinit_Shahdeo) and [LinkedIn](https://in.linkedin.com/in/vinitshahdeo).
 
